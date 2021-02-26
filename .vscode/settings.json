@@ -1,3 +1,11 @@
 {
-    "python.analysis.extraPaths": ["E:\\Document\\Visual Studio Code\\Python\\Bài 7"],
+    "python.analysis.extraPaths": [
+        "E:\\Document\\Visual Studio Code\\Python\\Bài 7",
+        "E:\\Document\\Visual Studio Code\\Python\\Bài 12"
+    ],
+    "cSpell.words": [
+        "i",
+        "ng",
+        "người"
+    ],
 }
