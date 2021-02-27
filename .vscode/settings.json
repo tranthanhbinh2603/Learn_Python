@@ -1,7 +1,8 @@
 {
     "python.analysis.extraPaths": [
         "E:\\Document\\Visual Studio Code\\Python\\Bài 7",
-        "E:\\Document\\Visual Studio Code\\Python\\Bài 12"
+        "E:\\Document\\Visual Studio Code\\Python\\Bài 12",
+        "D:\\anaconda\\lib\\site-packages"
     ],
     "cSpell.words": [
         "i",
